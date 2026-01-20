@@ -4,5 +4,8 @@
   },
   "projects.qmd": {
     "projects.html": "10818cf3"
+  },
+  "projects/tcga-data-wrangling/writeup.qmd": {
+    "writeup.html": "39e5c8d6"
   }
 }
