@@ -1,0 +1,15 @@
+project:
+  type: website
+
+title: "Nathan Callaway – Bioinformatics Portfolio"
+author: "Nathan Callaway"
+
+format:
+  html:
+    theme: cosmo
+
+website:
+  navbar:
+    right:
+      - text: "Projects"
+        href: projects.qmd
