@@ -1,0 +1,1 @@
+**Purpose:** This folder contains R scripts that code routine functions, such as data visualisations and data wrangling. This folder will act as a memory bank that I can access when I come to needing these functions in analyses.

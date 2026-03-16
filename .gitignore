@@ -9,6 +9,10 @@
 # Mac system files
 .DS_Store
 
+# The datasets folder
+datasets/*
+!datasets/README.md
+
 # Data files
 *.csv
 *.tsv
@@ -21,11 +25,6 @@
 *.fq
 *.bam
 *.sam
-
-# Generated outputs
-*.html
-*.pdf
-*.png
 
 # Logs
 *.log
