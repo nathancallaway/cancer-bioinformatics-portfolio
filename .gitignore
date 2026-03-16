@@ -1,0 +1,31 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# RStudio project settings
+*.Rproj
+
+# Mac system files
+.DS_Store
+
+# Data files
+*.csv
+*.tsv
+*.txt
+*.gz
+*.zip
+
+# Sequencing files
+*.fastq
+*.fq
+*.bam
+*.sam
+
+# Generated outputs
+*.html
+*.pdf
+*.png
+
+# Logs
+*.log
